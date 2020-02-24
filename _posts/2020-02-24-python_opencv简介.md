@@ -1,4 +1,4 @@
-### 简介  
+### python-OpenCV环境配置
 `pip list`
 
 `pip install opencv-python==3.4.1.15`
